@@ -3,6 +3,11 @@
 This is an Android project where we have used Test Ads on Applovin and create a mediation with Facebook Audience Network. You can use the following codes on your app to
 place applovin ads on your android app.
 
+
+# Watch the Full Video Tutorial on YouTube:
+
+https://youtu.be/x7oMnRSrLKQ
+
 ## Applovin Facebook Adapter
 To create a successful mediation with facebook audience network and Applovin then use this Adapter
 download from this link
